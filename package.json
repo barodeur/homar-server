@@ -1,0 +1,16 @@
+{
+  "name": "homar",
+  "version": "0.0.1",
+  "description": "Homar messaging server",
+  "main": "server.js",
+  "dependencies": {
+    "restify": "*",
+    "socket.io": "*"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}
