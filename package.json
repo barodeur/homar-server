@@ -4,8 +4,8 @@
   "description": "Homar messaging server",
   "main": "server.js",
   "dependencies": {
-    "restify": "*",
-    "socket.io": "*"
+    "restify": "~2.6.0",
+    "socket.io": "~0.9.16"
   },
   "scripts": {
     "start": "node server.js"
